@@ -1,0 +1,20 @@
+		Welcome TO Super Market
+
+ Bill Number : 2317
+ Customer Name : karan barale
+ Phone Number : 9503087047
+=====================================================
+ Products 		   QTY			Price
+=====================================================
+ Bath Soap 		   2			60
+ Face Wash 		   1			110
+ Daal(kg) 		   1			75
+ Sugar(kg) 		   1			48
+ Maza 		   1			60
+ Thumbs Up 		   2			110
+-----------------------------------------------------
+ Cosmetic Tax 					Rs. 5.1
+ Grocery Tax 					Rs. 1.23
+ Cold Drink Tax 					Rs. 3.4
+ Total Bill : 					Rs. 472.73
+-----------------------------------------------------

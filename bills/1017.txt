@@ -1,0 +1,20 @@
+		Welcome TO Super Market
+
+ Bill Number : 1017
+ Customer Name : Karan Barale
+ Phone Number : 9503087047
+=====================================================
+ Products 		   QTY			Price
+=====================================================
+ Hair Spray 		   2			300
+ Hair Gell 		   1			30
+ Rice(kg) 		   2			160
+ Sugar(kg) 		   1			48
+ Maza 		   1			60
+ Thumbs Up 		   2			110
+-----------------------------------------------------
+ Cosmetic Tax 					Rs. 9.9
+ Grocery Tax 					Rs. 2.08
+ Cold Drink Tax 					Rs. 3.4
+ Total Bill : 					Rs. 723.38
+-----------------------------------------------------

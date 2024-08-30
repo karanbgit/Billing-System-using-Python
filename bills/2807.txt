@@ -1,0 +1,15 @@
+		Welcome TO Super Market
+
+ Bill Number : 2807
+ Customer Name : hg
+ Phone Number : 546
+=====================================================
+ Products 		   QTY			Price
+=====================================================
+ Hair Spray 		   5			750
+ Wheat(kg) 		   1			30
+-----------------------------------------------------
+ Cosmetic Tax 					Rs. 22.5
+ Grocery Tax 					Rs. 0.3
+ Total Bill : 					Rs. 802.8
+-----------------------------------------------------

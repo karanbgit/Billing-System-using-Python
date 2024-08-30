@@ -1,0 +1,18 @@
+		Welcome TO Super Market
+
+ Bill Number : 1514
+ Customer Name : karan
+ Phone Number : 9503087047
+=====================================================
+ Products 		   QTY			Price
+=====================================================
+ Face Cream 		   2			198
+ Rice(kg) 		   1			80
+ Daal(kg) 		   2			150
+ Limca 		   1			45
+-----------------------------------------------------
+ Cosmetic Tax 					Rs. 5.94
+ Grocery Tax 					Rs. 2.3
+ Cold Drink Tax 					Rs. 0.9
+ Total Bill : 					Rs. 482.14
+-----------------------------------------------------

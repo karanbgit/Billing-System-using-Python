@@ -1,0 +1,20 @@
+		Welcome TO Super Market
+
+ Bill Number : 1003
+ Customer Name : Karan Barale
+ Phone Number : 9503087047
+=====================================================
+ Products 		   QTY			Price
+=====================================================
+ Bath Soap 		   1			30
+ Hair Spray 		   2			300
+ Rice(kg) 		   2			160
+ Food Oil(kg) 		   1			150
+ Maza 		   1			60
+ Thumbs Up 		   2			110
+-----------------------------------------------------
+ Cosmetic Tax 					Rs. 9.9
+ Grocery Tax 					Rs. 3.1
+ Cold Drink Tax 					Rs. 3.4
+ Total Bill : 					Rs. 826.4
+-----------------------------------------------------

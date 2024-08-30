@@ -1,0 +1,18 @@
+		Welcome TO Super Market
+
+ Bill Number : 1390
+ Customer Name : karan barale
+ Phone Number : 9503087047
+=====================================================
+ Products 		   QTY			Price
+=====================================================
+ Face Cream 		   2			198
+ Rice(kg) 		   1			80
+ Wheat(kg) 		   1			30
+ Thumbs Up 		   2			110
+-----------------------------------------------------
+ Cosmetic Tax 					Rs. 5.94
+ Grocery Tax 					Rs. 1.1
+ Cold Drink Tax 					Rs. 2.2
+ Total Bill : 					Rs. 427.24
+-----------------------------------------------------
